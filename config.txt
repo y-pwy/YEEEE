@@ -1,25 +1,25 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "粘贴自己的",
+"app_id": "wx35141ac795c1662e",
 # 公众号appSecret
-"app_secret": "粘贴自己的",
+"app_secret": "d4315cbcccc91e9595f36beeecbe1aa",
 # 模板消息id
-"template_id": "粘贴自己的",
+"template_id": "kbmywWNM5RQnRrMv_QrLntOzmn1VAEg0YAfaVk9qNE",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["粘贴自己的，不是自己的微信号，而是扫描二维码后，右边的那个很长的一串字符"],
+"user": ["octdX64VTQ-b87K0qgLfAQFVJqFU"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "粘贴自己的",
+"weather_key": "160ab284f38242058ef049851aee9131",
 # 天行数据apikey
-"tian_api": "粘贴自己的",
+"tian_api": "f6396cb5b72ce8a0b204a33e788051f9",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "西安",
+"region": "长春",
 # 生日
-"birthday1": {"name": "钢铁大侠", "birthday": "2003-08-03"},
+"birthday1": {"name": "烨乖乖", "birthday": "2003-09-07"},
 # 在一起的日子，格式同上
-"love_date": "1949-10-01",
+"love_date": "2020-11-08",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
